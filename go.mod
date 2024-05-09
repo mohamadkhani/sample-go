@@ -1,4 +1,4 @@
-module logicamp.tech/logucation/base
+module git.logicamp.top/Logucation/base
 
 go 1.22.2
 

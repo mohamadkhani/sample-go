@@ -1,4 +1,4 @@
-module git.logicamp.top/Logucation/base
+module github.com/mohamadkhani/sample-go
 
 go 1.22.2
 
